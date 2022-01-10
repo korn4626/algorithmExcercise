@@ -1,4 +1,4 @@
-# 더맵게
+# [더맵게][link]
 [https://programmers.co.kr/learn/courses/30/lessons/42626][link]
 ## 문제설명
 매운 것을 좋아하는 Leo는 모든 음식의 스코빌 지수를 K 이상으로 만들고 싶습니다. 
